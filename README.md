@@ -1,4 +1,4 @@
-### Hi there 👋
+### 후이즈 가입 기원 👋
 
 <!--
 **ryujm1828/ryujm1828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
