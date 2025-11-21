@@ -5,7 +5,7 @@
 - [Quest-Packet-To-Video](https://github.com/ryujm1828/Quest-Packet-To-Video) : A project that reconstructs gameplay video from Meta Quest USB packets.
 
 ## Web
-- [Langdev(Backend)](https://github.com/ryujm1828/Langdev_backend/) : For more details, please visit [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:ugcPost:7110249009004367872/).
+- [Langdev(Backend)](https://github.com/ryujm1828/Langdev_backend/) : Community Web Backend
 
 ## AI
 - [DDoS_Traffic_Control_RM](https://github.com/ryujm1828/DDoS_Traffic_Control_RM) : A Reinforcement Learning project for an AI agent that automatically adjusts router throttling rates to mitigate DDoS attacks.
