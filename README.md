@@ -1,5 +1,6 @@
 ### Jaemin Ryu
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryujm1828)](https://solved.ac/ryujm1828/)
+- [Blog](https://dev.to/ryujm1828)
 
 ## Security
 - [Quest-Packet-To-Video](https://github.com/ryujm1828/Quest-Packet-To-Video) : A project that reconstructs gameplay video from Meta Quest USB packets.
