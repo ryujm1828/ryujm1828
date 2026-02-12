@@ -2,19 +2,20 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryujm1828)](https://solved.ac/ryujm1828/)
 - [Blog](https://dev.to/ryujm1828)
 
-## Security
-- [Quest-Packet-To-Video](https://github.com/ryujm1828/Quest-Packet-To-Video) : A project that reconstructs gameplay video from Meta Quest USB packets.
-
-## Web
-- [Langdev(Backend)](https://github.com/ryujm1828/Langdev_backend/) : Community Web Backend
+## Game
+- [HungryCat](https://play.google.com/store/apps/details?id=com.Truer.HungryCat) : A Flappy Bird-style mobile game.
+- [RunningCat](https://play.google.com/store/apps/details?id=com.Truer.RunningCat) : A casual platformer game with simple one-touch controls.
+- [BlindSpot](https://github.com/ryujm1828/BlindSpot) : Sound-based top-view FPS online game (in development)
 
 ## AI
 - [DDoS_Traffic_Control_RM](https://github.com/ryujm1828/DDoS_Traffic_Control_RM) : A Reinforcement Learning project for an AI agent that automatically adjusts router throttling rates to mitigate DDoS attacks.
 - [HungryCatReinforceLearning](https://github.com/ryujm1828/HungryCatReinforceLearning) : Applying Reinforcement Learning to the self-developed game, 'HungryCat'.
 
-## Game
-- [HungryCat](https://play.google.com/store/apps/details?id=com.Truer.HungryCat) : A Flappy Bird-style mobile game.
-- [RunningCat](https://play.google.com/store/apps/details?id=com.Truer.RunningCat) : A casual platformer game with simple one-touch controls.
+## Security
+- [Quest-Packet-To-Video](https://github.com/ryujm1828/Quest-Packet-To-Video) : A project that reconstructs gameplay video from Meta Quest USB packets.
+
+## Web
+- [Langdev(Backend)](https://github.com/ryujm1828/Langdev_backend/) : Community Web Backend
 
 ## Toy Projects
 - [HungryCatScreenMate](https://github.com/ryujm1828/HungryCatScreenMate) : A desktop screen mate program featuring the 'HungryCat' character.
