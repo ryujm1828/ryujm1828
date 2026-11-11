@@ -3,7 +3,7 @@
 - [Blog](https://dev.to/ryujm1828)
 
 ## Embedded System
-- [SecureBootOTA](https://github.com/ryujm1828/SecureBootOTA) : An Secure OTA bootloader for STM32, featuring A/B staging, ECDSA authentication, and anti-rollback protection for seamless, brick-free updates.
+- [SecureBootOTA(WIP)](https://github.com/ryujm1828/SecureBootOTA) : An Secure OTA bootloader for STM32, featuring A/B staging, ECDSA authentication, and anti-rollback protection for seamless, brick-free updates.
 
 ## AI
 - [DDoS_Traffic_Control_RM](https://github.com/ryujm1828/DDoS_Traffic_Control_RM) : A Reinforcement Learning project for an AI agent that automatically adjusts router throttling rates to mitigate DDoS attacks.
