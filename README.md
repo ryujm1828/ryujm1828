@@ -1,6 +1,5 @@
 ### Jaemin Ryu
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryujm1828)](https://solved.ac/ryujm1828/)
-- [Blog](https://dev.to/ryujm1828)
 
 ## Embedded System
 - [SecureBootOTA](https://github.com/ryujm1828/SecureBootOTA) : An Secure OTA bootloader for STM32, featuring A/B staging, ECDSA authentication, and anti-rollback protection for seamless, brick-free updates.
